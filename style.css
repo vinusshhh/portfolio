@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding:0;
+    border:0;
+}
+.header{
+    background-color: rgb(red, green, blue);
+    color: white;
+    padding: 1rem;
+}
+.body{
+    color: white;
+}
+.h1{
+    text-align: center;
+}
+.wrap{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.photo{
+    margin: 5rem 50%;
+    background-color: white;
+    color: black;
+}
+.detail{
+    background-color: rgb(red, green, blue);
+    padding: 5px;
+    width: 450px;
+}
+.footer{
+    background-color: rgb(red, green, blue);
+    margin: 50px 10rem;
+    padding: 1rem;
+}
